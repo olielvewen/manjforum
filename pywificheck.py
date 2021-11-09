@@ -3,7 +3,7 @@
 #
 # pywificheck.py - Un modeste outil pour identifier les problèmes
 # de wifi sous Manjaro afin des les résoudre rapidement et surement
-# Copyright (c) 2020 Olivier Girard <olivier@openshot.org>
+# Copyright (c) 2020-2021 Olivier Girard <olivier@openshot.org>
 #
 # pywificheck is free software; you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by
